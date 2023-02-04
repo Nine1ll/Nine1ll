@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://cocoon1787.tistory.com/)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nine1ll&show_icons=true&theme=radical)
 
