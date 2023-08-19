@@ -1,5 +1,5 @@
 
-# Kim Gwang Yeoung 😀
+# Kim Gwang Yeong 😀
 ### Profile
 * 명지대학교 융합소프트웨어학부 데이터테크놀로지전공 21학번
 * 빅리더 프로젝트 인턴십 23.06 ~ 
