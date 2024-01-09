@@ -2,7 +2,7 @@
 # Kim Gwang Yeong 😀
 ### Profile
 * 명지대학교 융합소프트웨어학부 데이터테크놀로지전공 21.03 ~
-* 빅리더 프로젝트 인턴십 23.06 ~
+* 빅리더 프로젝트 인턴십 23.06 ~ 23.12
 ---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNine1ll&count_bg=%23990011&title_bg=%23FCF6F5&icon=github.svg&icon_color=%23990011&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
